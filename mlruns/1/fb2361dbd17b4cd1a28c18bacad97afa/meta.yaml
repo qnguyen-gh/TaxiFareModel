@@ -1,0 +1,15 @@
+artifact_uri: file:///home/quan/code/qnguyen-gh/TaxiFareModel/mlruns/1/fb2361dbd17b4cd1a28c18bacad97afa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: fb2361dbd17b4cd1a28c18bacad97afa
+run_uuid: fb2361dbd17b4cd1a28c18bacad97afa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653400924495
+status: 1
+tags: []
+user_id: unknown
